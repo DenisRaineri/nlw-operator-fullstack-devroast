@@ -4,7 +4,6 @@
 
 O DevRoast é um analisador de qualidade de código que devolve uma nota **brutalmente honesta** de 0 a 10. Envie qualquer trecho, ative o *roast mode* para sarcasmo no máximo e descubra o quão ruim (ou bom) o seu código realmente é.
 
-Projeto construído durante o evento **NLW** da [Rocketseat](https://rocketseat.com.br), seguindo as aulas do evento.
 
 ---
 
@@ -181,3 +180,5 @@ src/
 ## Licença e créditos
 
 Projeto educacional ligado ao **NLW Rocketseat**. Ajuste a licença aqui se publicar com uma licença explícita no repositório.
+Projeto construído durante o evento **NLW** da [Rocketseat](https://rocketseat.com.br)
+
